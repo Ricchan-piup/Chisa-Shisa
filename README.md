@@ -1,2 +1,3 @@
 # Chisa-Shisa
-A Shisa in 3D, simply clone the repository, extract the zip file and check it on blender!
+A Shisa in 3D, simply download the raw zip file, extract it and open it on blender!
+
